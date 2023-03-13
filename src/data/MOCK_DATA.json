@@ -1,0 +1,80 @@
+[
+    
+    {
+        "id": 1,
+        "name": "Producto 1",
+        "description": "Esta es la descripcion del producto 1",
+        "price": 1500,
+        "img": "https://via.placeholder.com/220",
+        "category": "auriculares"
+    },
+    
+    {
+        "id": 2,
+        "name": "Producto 2",
+        "description": "Esta es la descripcion del producto 2",
+        "price": 3000,
+        "img": "https://via.placeholder.com/220",
+        "category": "gabinete"
+
+    },
+
+    {
+        "id": 3,
+        "name": "Producto 3",
+        "description": "Esta es la descripcion del producto 3",
+        "price": 3000,
+        "img": "https://via.placeholder.com/220",
+        "category": "monitores"
+
+    },
+
+    {
+        "id": 4,
+        "name": "Producto 4",
+        "description": "Esta es la descripcion del producto 4",
+        "price": 3000,
+        "img": "https://via.placeholder.com/220",
+        "category": "pcarmada"
+
+    },
+
+    {
+        "id": 5,
+        "name": "Producto 5",
+        "description": "Esta es la descripcion del producto 5",
+        "price": 3000,
+        "img": "https://via.placeholder.com/220",
+        "category": "monitores"
+    },
+
+    {
+        "id": 6,
+        "name": "Producto 6",
+        "description": "Esta es la descripcion del producto 6",
+        "price": 3000,
+        "img": "https://via.placeholder.com/220",
+        "category": "auriculares"
+
+    },
+
+    {
+        "id": 7,
+        "name": "Producto 7",
+        "description": "Esta es la descripcion del producto 7",
+        "price": 3000,
+        "img": "https://via.placeholder.com/220",
+        "category": "gabinete"
+
+    },
+
+    {
+        "id": 8,
+        "name": "Producto 8",
+        "description": "Esta es la descripcion del producto 8",
+        "price": 3000,
+        "img": "https://via.placeholder.com/220",
+        "category": "monitores"
+
+    }
+]
